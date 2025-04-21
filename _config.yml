@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   will be launching soon.  Stay tuned!
 
 baseurl: "lbl-landing-site" # the subpath of your site, e.g. /blog
-url: "https://username.github.io""
+url: "https://kbrown-lifeboat-labs.github.io/"
 #repository: kbrown-lifeboat-labs/llbl-landing-site
 logo: "/assets/images/ll-logo-shield-only-transparent.png"
 teaser: "/assets/images/ll-logo-transparent.png"
