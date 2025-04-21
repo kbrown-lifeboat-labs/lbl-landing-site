@@ -23,10 +23,10 @@ email: info@lifeboatlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
   Lifeboat Labs is in stealth mode.  We are building an exciting new product that
   will be launching soon.  Stay tuned!
-baseurl: "" # the subpath of your site, e.g. /blog
-url: ""
-#url: "https://kbrown.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#repository: kbrown/lifeboat-labs-website
+
+baseurl: "lbl-landing-site" # the subpath of your site, e.g. /blog
+url: "https://username.github.io""
+#repository: kbrown-lifeboat-labs/llbl-landing-site
 logo: "/assets/images/ll-logo-shield-only-transparent.png"
 teaser: "/assets/images/ll-logo-transparent.png"
 #url: "https://lifeboatlabs.com" # the base hostname & protocol for your site, e.g. http://example.com
